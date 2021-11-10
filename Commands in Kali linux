@@ -7,7 +7,7 @@ sudo apt install bc
 sudo apt-get install build-essential 
 sudo apt-get install libelf-dev 
 
-!Try either of these commands to see which works:
+!Try either of these commands to see which works: If none works try "sudo apt dist-upgrade" before executing the given below command  
 sudo apt-get install linux-headers-`uname -r`
 sudo apt-get install linux-headers-5.10.0-kali6-amd64
 
