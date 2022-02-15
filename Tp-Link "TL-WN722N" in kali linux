@@ -7,9 +7,8 @@ sudo apt install bc
 sudo apt-get install build-essential 
 sudo apt-get install libelf-dev 
 
-!Try either of these commands to see which works: If none works try "sudo apt dist-upgrade" before executing the given below command  
+If the below command shows errors try "sudo apt dist-upgrade" and execute the given below command  
 sudo apt-get install linux-headers-`uname -r`
-sudo apt-get install linux-headers-5.10.0-kali6-amd64
 
 sudo apt install dkms
 sudo rmmod r8188eu.ko
