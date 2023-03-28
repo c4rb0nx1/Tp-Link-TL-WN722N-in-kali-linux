@@ -4,8 +4,6 @@ You can get the adapter to inject packets and set monitor mode once you update t
 
 ### Use these commands to get the adapter working on Kali for packet injection and monitoring:
 ### Commands:
-==========
-
 ```python
 sudo apt update
 sudo apt upgrade
