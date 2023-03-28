@@ -13,7 +13,9 @@ sudo apt-get install libelf-dev
 ```
 
 If the below command shows errors try "sudo apt dist-upgrade" and execute the given below command  
-```python sudo apt-get install linux-headers-`uname -r` ```
+```python 
+sudo apt-get install linux-headers-`uname -r` 
+```
 
 ```python
 sudo apt install dkms
