@@ -33,8 +33,7 @@ sudo make install
 sudo modprobe 8188eu
 ```
 
-!To enable Monitor mode and test packet injection:
-!=================================================
+### To enable Monitor mode and test packet injection:
 ```python
 sudo ifconfig wlan0 down
 sudo airmon-ng check kill
@@ -45,5 +44,7 @@ sudo aireplay-ng --test wlan0
 ```
 
 
-if the above method did not work then you may try this : 
-```python https://github.com/KanuX-14/rtl8188eus ```
+### If the above method did not work then you may try this : 
+```python 
+https://github.com/KanuX-14/rtl8188eus 
+```
