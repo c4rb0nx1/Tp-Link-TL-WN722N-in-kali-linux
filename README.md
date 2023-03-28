@@ -45,6 +45,4 @@ sudo aireplay-ng --test wlan0
 
 
 ### If the above method did not work then you may try this : 
-```python 
 https://github.com/KanuX-14/rtl8188eus 
-```
